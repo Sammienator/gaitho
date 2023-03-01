@@ -6,6 +6,7 @@
 
 .navbar {
     margin-bottom: 0;
+    color: white;
   }
   .carousel-item {
     transition: transform 10s ease, opacity .5s ease-out
